@@ -1,10 +1,12 @@
 <certificados>
-  <pessoa>
-    <nome>Talysin</nome>
+  <aluno>
+    <nome>Teste</nome>
     <cpf>123.456.789-01</cpf>
-  </pessoa>
-  <pessoa>
-    <nome>So tem ele</nome>
+    <serie>00023</serie>
+  </aluno>
+  <aluno>
+    <nome>Ssegundo</nome>
     <cpf>234.567.890-12</cpf>
-  </pessoa>
+    <serie>93439</serie>
+  </aluno>
 </certificados>

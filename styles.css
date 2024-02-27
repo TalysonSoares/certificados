@@ -1,16 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 200vh;
+  width: 100%;
+  background-image: url('img/frente.png');
+}
+
 #certificado {
-    text-align: center;
-    margin: 50px;
-    border: 2px solid #000;
-    padding: 20px;
-  }
-  
-  #nome {
-    font-size: 24px;
-    font-weight: bold;
-  }
-  
-  #cpf {
-    font-size: 18px;
-  }
-  
+}
+
+/* #conteudo {
+  transform-origin: bottom left; 
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100vh; 
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff; 
+} */
